@@ -1,5 +1,16 @@
-### Hello there !
-#### This repository is made to create multiple mini projects to enhance the development skills and got clarity with proper structured development and also to keep the projects at one place 
+# Mini Projects Repository
 
-## Here is the list of project i made 
-1. TodoList
+Welcome to this repository dedicated to developing and enhancing various mini projects. The goal is to improve development skills, gain clarity in structuring projects, and keep all the projects in one organized place for easy access and reference.
+
+## Key Objectives:
+- Enhance coding and development skills through hands-on mini projects
+- Gain a deeper understanding of proper project structure and best practices
+- Consolidate various mini projects in one place for future reference and learning
+
+## List of Projects:
+1. **Todo List App**  
+   A simple and intuitive task management application where users can add, edit, delete, and mark tasks as completed. This project helps to learn about state management, CRUD operations, and UI design.
+
+2. **More to come**  
+
+---
