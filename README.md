@@ -8,7 +8,7 @@ Welcome to this repository dedicated to developing and enhancing various mini pr
 - Consolidate various mini projects in one place for future reference and learning
 
 ## List of Projects:
-1. <b><a href="/TodoList">TODO List App</a></b>
+1. <b><a href="/TodoList">TODO List App: </a></b> 
    A simple and intuitive task management application where users can add, edit, delete, and mark tasks as completed. This project helps to learn about state management, CRUD operations, and UI design.
 
 2. **More to come**  
